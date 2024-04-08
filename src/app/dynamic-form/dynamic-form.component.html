@@ -1,0 +1,16 @@
+<p>dynamic-form works!</p>
+<form [formGroup]="dynamicForm" (ngSubmit)="onSubmit()">
+    <div *ngFor="let control of formService.getFormStructure()">
+        <div *ngIf='isSelect(control.type)'>
+            <label class="space">{{control.label}}</label>
+            <select [formControlName]="control.name" class="space">
+                <option *ngFor="let option of control.options" [value]="option">{{option}}</option>
+            </select>
+        </div>
+        <div *ngIf='!isSelect(control.type)'>
+            <label class="space">{{control.label}}</label>
+            <input class="space" [type]="control.type" [formControlName]="control.label">
+        </div>
+    </div>
+    <button type="submit">Submit</button>
+</form>

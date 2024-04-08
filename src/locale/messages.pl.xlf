@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="8020402390620783618" datatype="html">
+        <source>Education</source>
+        <target>Edukacja</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="866295452505147643" datatype="html">
+        <source>I am currently a student of the Mechatronics Technical School number 1 in Warsaw in the field of programming technician. I started learning here in 2020. I have learned programming languages like c#, java, c++, php, javascript, kotlin. I know how to make wpf desktop applications, mobile apps with android studio or web applications with angular and react.</source>
+        <target>Obecnie jestem uczniem Technikum Mechatronicznego numer 1 w Warszawie na profilu technik programista. Naukę rozpocząłem w 2020 roku. Nauczyłem się wielu języków programowania takich jak c#, java, c++, php, javascript, kotlin. Wiem jak stworzyć aplikację desktopową wpf, aplikację mobilną przy użyciu android studio czy aplikacji przeglądarkowych za pomocą angulara i reacta.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7606781092816133779" datatype="html">
+        <source>Hobbys</source>
+        <target>Hobby</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="278034913268864420" datatype="html">
+        <source>My biggest hobby is computer games. I spend a lot of time on playing and creating them. in future I would love to work in game dev and create amazing products, that people adore <x id="INTERPOLATION" equiv-text="{{&quot;:).&quot; | emote}}"/> Also I&apos;m really into board games and sports like football and volleyball. In my free time I also read fantasy books.</source>
+        <target>Moim największym hobby są gry komputerowe. Spędzam dużo czasu grając w nie i tworząc własne produkcje. W przyszłości chiałbym pracować w game dev'ie i tworzyć niesamowite dzieła, uwielbiane przez ludzi <x id="INTERPOLATION" equiv-text="{{&quot;:).&quot; | emote}}"/> Również bardzo lubię gry planszowe oraz sport, między innymi piłkę nożną i siatkówkę. W wolnym czasie czytam też książki fantasy.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7283578393441917454" datatype="html">
+        <source> Experience</source>
+        <target> Doświadczenie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="714529178863040619" datatype="html">
+        <source>I don&apos;t have a big experience becouse I have never worked in a company. However I have made few applications. Lately I&apos;m working on a game made in unity engine.</source>
+        <target>Nie posiadam dużego dośwadczenia ponieważ nigdy nie pracowałem w fimie. Jednakże stworzyłem kilka aplikacji. Ostatnio pracuję nad grą przy użyciu unity engine.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1153721192129533394" datatype="html">
+        <source>Contact me</source>
+        <target>Skontaktuj się ze mną</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/CV/cv.component.html</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1792724451725606329" datatype="html">
+        <source>Choose text size</source>
+        <target>Wybierz rozmiar tekstu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo2/demo2.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1298442478692705149" datatype="html">
+        <source>Hello <x id="INTERPOLATION" equiv-text="{{name}}"/><x id="INTERPOLATION_1" equiv-text="{{&quot; !:)&quot;| emote}}"/></source>
+        <target>Witaj <x id="INTERPOLATION" equiv-text="{{name}}"/><x id="INTERPOLATION_1" equiv-text="{{&quot; !:)&quot;| emote}}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo2/demo2.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="402785015655073812" datatype="html">
+        <source>Name: </source>
+        <target>Imię: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo/demo.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="821806566134546835" datatype="html">
+        <source>Enter a name here</source>
+        <target>Podaj swoje imię</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo/demo.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="935187492052582731" datatype="html">
+        <source>Submit</source>
+        <target>Potwierdź</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo/demo.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3835544086686515640" datatype="html">
+        <source>Contact me <x id="INTERPOLATION" equiv-text="{{name}}"/>:</source>
+        <target>Skontaktuj się ze mną <x id="INTERPOLATION" equiv-text="{{name}}"/>:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Demo/demo.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6946015258179666988" datatype="html">
+        <source>Welcome! What&apos;s your name?</source>
+        <target>Witaj! Jak masz na imię?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/Main/main.ts</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6835981132590210537" datatype="html">
+        <source> Main </source>
+        <target> Główna </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/NavBar/navBar.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4661334442319018162" datatype="html">
+        <source> CV </source>
+        <target> CV </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/NavBar/navBar.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1343083423788960094" datatype="html">
+        <source>Send a contact email</source>
+        <target>Wyślij email kontaktowy</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1826215573205981970" datatype="html">
+        <source>Company</source>
+        <target>Firma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3384157137389267592" datatype="html">
+        <source>Company name is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Nazwa firmy jest <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>wymagana<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5342432350421167093" datatype="html">
+        <source>First name</source>
+        <target>Imię</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/form/form.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3285193758152706269" datatype="html">
+        <source>First name is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Imię jest <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>wymagane<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">22,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3586674587150281199" datatype="html">
+        <source>Last name</source>
+        <target>Nazwisko</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/form/form.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6740999446490456340" datatype="html">
+        <source>Last name is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Nazwisko jest <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>wymagane<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4768749765465246664" datatype="html">
+        <source>Email</source>
+        <target>Email</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/form/form.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8162677855823177997" datatype="html">
+        <source>Email is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Email jest <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>wymagany<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5701618810648052610" datatype="html">
+        <source>Title</source>
+        <target>Tytuł</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/form/form.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7972762070820021106" datatype="html">
+        <source>Title is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Tytuł jest <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>wymagany<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/form/form.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6162693758764653365" datatype="html">
+        <source>Text</source>
+        <target>Tekst</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/form/form.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
